@@ -9,7 +9,7 @@
 
 
 ```python
-print("Follow KLNQ on Github")
+print("Follow INSULA on Github")
 ```
 
 ```python
