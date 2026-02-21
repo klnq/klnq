@@ -1,5 +1,5 @@
 
-# About INSULA!
+# About KLN!
 
 
 
@@ -9,7 +9,7 @@
 
 
 ```python
-print("Follow INSULA on Github")
+print("Follow KLN on Github")
 ```
 
 ```python
