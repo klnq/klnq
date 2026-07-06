@@ -1,5 +1,5 @@
 
-# About KLN!
+# About lvnar!
 
 
 
@@ -9,7 +9,7 @@
 
 
 ```python
-print("Follow KLN on Github")
+print("Follow lvnar on Github")
 ```
 
 ```python
@@ -17,10 +17,6 @@ print("Follow KLN on Github")
    Server  :  1126273929271578710
 ```
 
-
-## LINKS:
-
- - [Discord Server](https://discord.gg/araberna)
 
 
 
